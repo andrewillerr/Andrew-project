@@ -1,2 +1,2 @@
 # Project's Andrew
-insign Nisit-KU 
+insight Nisit-KU 
